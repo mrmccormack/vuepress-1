@@ -33,7 +33,7 @@ module.exports = {
                 link: '/admin',
             },            {
                 text: 'hello',
-                link: '/hello',
+                link: '/docs/hello',
             },
             {
                 text: 'NetlifyCMS Config Help',
